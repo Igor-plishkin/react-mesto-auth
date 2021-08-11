@@ -1,18 +1,13 @@
-# Проект: mesto-react
+# Проект: mesto-react-auth
 
 ------
 
-Небольшой лэндинг для Тренировки React
-
-### Применяемые технологии:
-
-* React
-
-
+Реализация авторизации и регистрации на React
 
 ### Новые фичи использованые в работе:
-* подписка на контекст
-* react-router
+* работа с localStorage
+* редактирование пользователя
+* HOC
 
 Ссылка на [githubPages](https://igor-plishkin.github.io/react-mesto-auth/)
 
